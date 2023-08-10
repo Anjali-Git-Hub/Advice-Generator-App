@@ -14,12 +14,6 @@ Users should be able to:
 
 ![desktop-design](https://github.com/Anjali-Git-Hub/Advice-Generator-App/assets/122084921/99093b8b-269a-4b68-aace-c7c63899fa43)
 
-### Links
-
-- Solution URL: [Add solution URL here](https://github.com/Anjali-Git-Hub/Advice-Generator-App.git)
-- Live Site URL: [Add live site URL here](https://anjali-git-hub.github.io/Advice-Generator-App/)
-
-
 ### Built with
 
 - Semantic HTML5 markup
